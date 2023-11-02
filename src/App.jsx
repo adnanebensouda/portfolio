@@ -1,5 +1,5 @@
 import React from 'react';
-import FullScreenBackground from './FullScreenBackground';
+import FullScreenBackground from './pages/FullScreenBackground';
 
 function App() {
   return (
