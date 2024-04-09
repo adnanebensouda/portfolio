@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "coding",
-    "image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "loren",
-    "tags": ["vue", "vue2", "node", "php", "material-ui", "vuex", "python", "Docker", "vuetify", "cypress"],
+    "name": "maze",
+    "image": "https://images.pexels.com/photos/21328467/pexels-photo-21328467/free-photo-of-maze.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "i build that maze game using alx structures and C language it was big challenge",
+    "tags": ["C", "3D"],
     "source_code": "https://github.com/adnanenet/Maze.git",
     "demo": ""
   }
