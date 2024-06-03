@@ -3,9 +3,45 @@
     "id": 1,
     "name": "maze",
     "image": "https://images.pexels.com/photos/21328467/pexels-photo-21328467/free-photo-of-maze.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "i build that maze game using alx structures and C language it was big challenge",
-    "tags": ["C", "3D"],
+    "description": "Navigate challenging mazes in our exciting game. Solve puzzles, avoid traps, collect treasures, and reach the finish line.",
+    "tags": ["C"],
     "source_code": "https://github.com/adnanenet/Maze.git",
+    "demo": ""
+  },
+  {
+    "id": 2,
+    "name": "Landing Page",
+    "image": "https://raw.githubusercontent.com/codedamn-projects/eventually-stunning-html5-landing-page/master/designs/Landing%20Page%20%5BDesktop%5D.jpg",
+    "description": "I built a landing page designed to capture emails efficiently, with a clean design and a simple, user-friendly interface.",
+    "tags": ["html", "css"],
+    "source_code": "https://adnanenet.github.io/Eventually---StuLanding-Pagenning-HTML5-Landing-Page",
+    "demo": ""
+  },
+  {
+    "id": 3,
+    "name": "AirBnB_clone_v3",
+    "image": "https://github.com/adnanenet/AirBnB_clone_v3/raw/master/airbnb.png",
+    "description": "Find unique stays worldwide with AirBnB_clone_v3. Book easily, enjoy verified hosts, and 24/7 support.",
+    "tags": ["html", "css", "js", "flask", "mysql"],
+    "source_code": "https://github.com/adnanenet/AirBnB_clone_v3.git",
+    "demo": ""
+  },
+  {
+    "id": 4,
+    "name": "trotispeed",
+    "image": "https://github.com/trotispeed/trotispeed_frontend/raw/master/troti.png",
+    "description": "Rent trotinette scooters effortlessly with Troti Speed. Enjoy easy rentals, real-time availability, secure payments, and eco-friendly travel.",
+    "tags": ["react native", "laravel api", "js", "php", "mysql"],
+    "source_code": "https://github.com/orgs/trotispeed/repositories",
+    "demo": ""
+  },
+  {
+    "id": 5,
+    "name": "gym managment",
+    "image":"https://github.com/gymmanagmnet/gym-managment/raw/main/gymmangment.png",
+    "description": "Manage your gym effortlessly with our app. Track memberships, schedule classes, handle payments, and streamline operations seamlessly.",
+    "tags": ["react native","js"],
+    "source_code": "https://github.com/trotispeed/trotispeed_frontend",
     "demo": ""
   }
 ]
