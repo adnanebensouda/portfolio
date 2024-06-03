@@ -6,7 +6,7 @@ import styles from '../styles/HomePage.module.css';
 
 export default function HomePage() {
 
-  const tagline = "Software Engineer Developer";
+  const tagline = "Software Engineer front-end and web design";
   
   return (
     <>
